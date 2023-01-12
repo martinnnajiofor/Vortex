@@ -188,7 +188,7 @@ body{
 .chat-screen .typebox input{
     flex: 1;
     height: 50px;
-    font-size: 10px;
+    font-size: 20px;
 }
 .chat-screen .typebox button{
     width: 80px;
